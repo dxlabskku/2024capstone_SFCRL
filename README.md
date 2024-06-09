@@ -1,5 +1,4 @@
-# 2024capstone_SFCRL
-SF-CRL: Speech-Facial Contrastive Representation Learning for Speaker Feature Extraction
+# SF-CRL: Speech-Facial Contrastive Representation Learning for Speaker Feature Extraction
 
 Recently, several studies have shown that various modalities can be used to extract features from audio data. For example, based on the CLIP methodology, the pre-trained AudioCLIP model achieved state-of-the-art (SOTA) performance on the ESC dataset by extracting generalized features from audio with text and image. However, most research focuses on general sounds such as rain or animal noises. In this reason, this study aims to extract unique features of individual voices using a dataset of human speech.
 
